@@ -1,0 +1,11 @@
+{
+  "recommendations": [
+    "editorconfig.editorconfig",
+    "aaron-bond.better-comments",
+    "usernamehw.errorlens",
+    "wayou.vscode-todo-highlight",
+    "gruntfuggly.todo-tree",
+    "shardulm94.trailing-spaces",
+    "visualstudioexptteam.vscodeintellicode"
+  ]
+}
